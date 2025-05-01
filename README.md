@@ -42,7 +42,7 @@ pip install pyttsx3 SpeechRecognition pyaudio pywhatkit psutil
 Run from terminal or your IDE:
 
 ```
-python jarvis_final_with_background.py
+python jarvis.py
 ```
 
 ---
