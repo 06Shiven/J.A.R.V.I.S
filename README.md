@@ -25,7 +25,7 @@ It runs in a fullscreen futuristic GUI and supports basic voice interactions, sy
 > *(Replace with your actual screenshot or demo GIF)*
 
 ```
-![screenshot](assets/demo.png)
+![screenshot](demo.png)
 ```
 
 ---
