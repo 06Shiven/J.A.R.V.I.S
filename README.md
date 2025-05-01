@@ -23,7 +23,7 @@ It runs in a fullscreen futuristic GUI and supports basic voice interactions, sy
 ## 📷 Screenshot
 
 ![screenshot](demo.png)
-
+![screenshot](demo2.png)
 
 ---
 
