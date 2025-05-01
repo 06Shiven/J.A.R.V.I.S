@@ -22,11 +22,8 @@ It runs in a fullscreen futuristic GUI and supports basic voice interactions, sy
 
 ## 📷 Screenshot
 
-> *(Replace with your actual screenshot or demo GIF)*
-
-```
 ![screenshot](demo.png)
-```
+
 
 ---
 
